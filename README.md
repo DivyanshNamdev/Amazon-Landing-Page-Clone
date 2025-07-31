@@ -1,6 +1,6 @@
 ## Amazon Landing Page Clone📄
-A responsive clone of the Amazon landing page built using HTML and CSS.  
-This project was created for frontend development practice and UI replication.
+A Responsive Clone of the Amazon Landing Page built using HTML and CSS.  
+This project was created for Frontend Development practice and UI replication.
 
 ## Tech Stack🔧
 - HTML5
